@@ -26,4 +26,8 @@ starting with unstoppable, but off to a slow start as i spent the most of the da
 
 today i wrapped up with the unstoppable challenge, and completed one more challenge (Side Entrance), Currently working on the Puppet level. the notes are <https://github.com/sudotx/Web3-CTF-Intensive-CoLearning/blob/main/Writeup/sudotx/DamnVulnerableDefi>
 
+### 2024.08.31
+
+Today the study session focus was on clearing the puppet, puppetv2 and puppetv3 contracts as they relate to the 3 iterations of the uniswap v2 contract. i did mostly research into price manipulation attacks using this video <https://www.youtube.com/watch?v=nrnC2Z-ZZow> it was mostly research since the ideas i tried did not work.
+
 <!-- Content_END -->
